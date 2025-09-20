@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abahuto/abahuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ **Crypto Enthusiast | Automation Builder | Airdrop Hunter** ⚡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7d18cec-2274-4c6f-86fb-2500cb9cdb7b" />
+
+---
+
+I specialize in building **automation bots** for the crypto world, focusing on streamlining tasks such as **crypto airdrop participation, wallet interactions, and blockchain integrations**. My goal is to leverage automation to save time, increase efficiency, and unlock opportunities in the ever-evolving world of Web3.
+
+---
+
+## 🔧 Focus Areas
+Automated crypto airdrop farming | Smart contract interactions | Task scheduling & multi-wallet management
+
+---
+
+⚡ *"In crypto, speed and automation are the edge — I build that edge."* ⚡
+
+</div>
